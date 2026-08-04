@@ -46,9 +46,12 @@ Joined as the second full-time engineer at a seed-stage startup, building mobile
 
 ### Tech I work with
 
-**Frontend:** React Native · React · TypeScript · Next.js (SSR/SEO) · Redux · React Query · Figma
-**Backend:** Node.js · Express · MongoDB · Python · Django · SQL · REST APIs · OAuth/JWT
-**Tooling:** AWS (EC2, S3, Lambda) · Agentic coding (Claude Code) · Vercel · Xcode · Fastlane
+#### **Frontend:**
+React Native · React · TypeScript · Next.js (SSR/SEO) · Redux · React Query · Figma
+#### **Backend:**
+Node.js · Express · MongoDB · Python · Django · SQL · REST APIs · OAuth/JWT
+#### **Tooling:**
+AWS (EC2, S3, Lambda) · Agentic coding (Claude Code) · Vercel · Xcode · Fastlane
 
 ---
 
