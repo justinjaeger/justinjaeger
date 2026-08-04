@@ -9,7 +9,7 @@ Full-stack engineer spanning founder, startup, and consulting roles. I took a si
 A full-stack social platform (iOS, Android, web) for awards-prediction enthusiasts — log predictions, discuss and compare them, and compete on leaderboards.
 
 - **13.6k** peak-season active users, **62%** YoY retention, subscription-powered revenue
-- Became the largest user base for a platform of its kind, **topping industry-backed competitor GoldDerby**
+- Became the largest user base for a platform of its kind, **topping industry-backed competitor, GoldDerby**
 - Partnered with **Next Best Picture**, a leading independent awards site, to replace their prediction pages with Award Expert's user-generated data
 
 **Stack:** React Native + TypeScript (iOS/Android) · Next.js + React (web) · Node.js + Express · MongoDB · AWS
